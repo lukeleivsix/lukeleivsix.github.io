@@ -1,0 +1,91 @@
+1. Red Team Rookie: Fundamentos del Hacking Ético
+Descripción:
+Un curso de entrada diseñado para introducir a los estudiantes al mundo del pentesting desde un enfoque práctico. Aprenderán a pensar como un atacante, configurar su entorno y realizar ataques básicos en entornos controlados.
+
+Conocimientos a adquirir:
+
+Fundamentos de hacking ético y legalidad
+
+Instalación y uso básico de Kali Linux
+
+Reconocimiento y escaneo con Nmap
+
+Explotación básica de servicios comunes (FTP, SSH, HTTP)
+
+Uso de Metasploit
+
+Desafíos CTF al final de cada módulo
+
+2. Exploits Express: Vulnerabilidades Web en Tiempo Real
+Descripción:
+Curso práctico centrado en vulnerabilidades web reales y comunes. Cada módulo culmina con un entorno vulnerable donde el alumno debe aplicar lo aprendido.
+
+Conocimientos a adquirir:
+
+OWASP Top 10
+
+Inyección SQL (manual y automatizada)
+
+XSS y CSRF
+
+File inclusion y command injection
+
+Burp Suite en profundidad
+
+Automatización básica con scripts
+
+Laboratorios tipo TryHackMe/HackTheBox autoalojados
+
+3. Shell Ninja: Introducción al Hacking de Sistemas Linux
+Descripción:
+Un curso ideal para quienes desean desarrollar habilidades de post-explotación y movimiento lateral en sistemas basados en Linux.
+
+Conocimientos a adquirir:
+
+Enumeración avanzada de sistemas Linux
+
+Escalada de privilegios con técnicas reales
+
+Abuso de servicios SUID/GUID
+
+Pivoting y tunneling (SSH, socat, chisel)
+
+Scripting en bash para automatizar tareas
+
+Múltiples cajas prácticas tipo CTF
+
+4. Wireless Warfare: Pentesting de Redes WiFi
+Descripción:
+Enfocado en la seguridad de redes inalámbricas, este curso ofrece prácticas reales en laboratorio con routers vulnerables y emulación de escenarios de ataque.
+
+Conocimientos a adquirir:
+
+Protocolos WiFi y vulnerabilidades comunes
+
+Ataques de desautenticación y captura de handshakes
+
+Cracking de WPA/WPA2 con herramientas reales
+
+Evil twin attacks y portales cautivos
+
+Configuración segura de redes
+
+Prácticas con antenas y tarjetas compatibles
+
+5. Red Hat Recon: Inteligencia y Enumeración Avanzada
+Descripción:
+Curso intensivo en técnicas de reconocimiento y OSINT, donde los estudiantes aprenden a perfilar objetivos como lo haría un pentester antes de un test real.
+
+Conocimientos a adquirir:
+
+OSINT con herramientas open source (Maltego, theHarvester, Recon-ng)
+
+Técnicas de footprinting y fingerprinting
+
+Recolección pasiva vs activa
+
+Enumeración de subdominios, servicios, hosts
+
+Generación de reportes de inteligencia
+
+Desafíos reales con empresas ficticias
